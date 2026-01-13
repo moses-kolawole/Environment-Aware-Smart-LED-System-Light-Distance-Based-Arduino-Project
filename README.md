@@ -45,7 +45,7 @@ The Arduino sketch for this project is located in the [code/ directory](code/str
 A demonstration video showing the working project is included in this repository.
 
 📹 **Project Demonstration:**  
-[Click here to watch/download the demo video](video/)
+[Click here to watch/download the demo video](https://youtu.be/dQ2UbIHKzY0)
 
 ## Reflection (What I Learned)
 - Reading and interpreting analog sensor values
