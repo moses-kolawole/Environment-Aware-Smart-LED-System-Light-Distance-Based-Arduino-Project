@@ -1,7 +1,8 @@
 # Environment-Aware Smart LED System – Arduino Project
 
 ## Overview
-This project demonstrates an environment-aware smart LED control system using Arduino. A potentiometer is used to simulate ambient light levels, while an ultrasonic sensor detects the distance of nearby objects. The LED behavior changes based on both light intensity and object distance, creating a simple smart environment system.
+This project is about building a smart LED system that reacts to the environment using Arduino.
+I used a potentiometer to simulate light levels and an ultrasonic sensor to detect nearby objects. The LED changes based on both light and distance, making a simple “smart environment” system.
 
 ## Objective
 - Learn how to read analog sensor values using Arduino
@@ -19,7 +20,7 @@ This project demonstrates an environment-aware smart LED control system using Ar
 - Breadboard
 - Jumper wires
 - 9V Battery
-- 9V Battery Clip to DC Barrel Jack
+- 9V Battery Clip
 
 ## Circuit Diagram
 ![Circuit Diagram](images/street_controlled_photo5.jpg)
@@ -45,8 +46,6 @@ A demonstration video showing the working project is included in this repository
 
 📹 **Project Demonstration:**  
 [Click here to watch/download the demo video](video/)
-
-*(If the video does not preview directly on GitHub, please download it using the link above.)*
 
 ## Reflection (What I Learned)
 - Reading and interpreting analog sensor values
